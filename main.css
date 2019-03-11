@@ -1,0 +1,10 @@
+
+#canvas {
+    margin: auto;
+    background: #dfdbdb;
+    width: 100%;
+  }
+  
+  .btn-disabled {
+    color: rgb(12, 4, 4) !important;
+  }
